@@ -35,7 +35,7 @@ NOTE: If 8080 port is not free in your pc, you have to change port from "8080:80
 - Dockerfile is ademmetin/sample-app:v1 codes. If you want to local build
 You run this command --> "docker build -t sample-app ."   
 
-##### Deployment.yaml #####
+########### Deployment.yaml ############
 
 Kubernetes YAML definition file that includes an Ingress, a Service for load balancing, and a Deployment with two pods.
 These kinds seperated by "---", If you want, you can divide it into 3 separate files. 
