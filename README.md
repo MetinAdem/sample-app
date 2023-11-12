@@ -63,3 +63,4 @@ Specifies the domain (http://localhost:8080/WeatherForecast) for routing externa
     http://localhost:8080/WeatherForecast  
     click and see the result
 
+![alt text](https://github.com/MetinAdem/sample-app/blob/main/Link_Result.png?raw=true)
