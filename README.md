@@ -8,6 +8,8 @@
 - Kubernetes installation is done in oneclick_install.sh script that's why you don't need to do anything.
 ##### In this line --> brew install k3d ####
 
+- If your Kubernetes Environment is ready and you don't have to install K8S. You should delete lines 17 to 57.
+
 - The steps in the oneclick_install.sh script were tried to be explained in one sentence.
 
 - You can run the oneclick_install.sh with the commands below;
